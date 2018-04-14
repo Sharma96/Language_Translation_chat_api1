@@ -1,1 +1,0 @@
-Run the project using src/index.php. Import the polyglotpal.sql file into SQL database before execution.
